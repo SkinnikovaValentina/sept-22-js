@@ -32,21 +32,21 @@ let book11 = {
     title: 'long Walk',
     pageCount : 320,
     genre : 'horror',
-    author : [name = 'King', age = 76]
+    author : ['King', 76]
 }
 
 let book21 = {
     title: 'shining' ,
     pageCount : 370,
     genre : 'horror',
-    author : [name = 'Stephen_King', age = 75]
+    author : ['Stephen_King', 75]
 }
 
 let book31 = {
     title: 'stainless Steel Rat',
     pageCount : 650,
     genre : 'sci_fi',
-    author : [name = 'Harry_Harrison', age = 87]
+    author : ['Harry_Harrison', 87]
 }
 
 let users = [
