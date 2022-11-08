@@ -80,7 +80,9 @@
       <workItem from="1667849650934" duration="1318000" />
       <workItem from="1667858211493" duration="11967000" />
       <workItem from="1667873380523" duration="1109000" />
-      <workItem from="1667876044370" duration="2775000" />
+      <workItem from="1667876044370" duration="3124000" />
+      <workItem from="1667899894483" duration="1754000" />
+      <workItem from="1667911576494" duration="1851000" />
     </task>
     <task id="LOCAL-00001" summary="JS-lesson1">
       <created>1667346513540</created>
@@ -124,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667874075033</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="js-lesson3&#10;change">
+      <created>1667879090958</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667879090958</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +168,7 @@
     <MESSAGE value="js-lesson2&#10;chang" />
     <MESSAGE value="js-lesson2&#10;chang2" />
     <MESSAGE value="js-lesson3" />
-    <option name="LAST_COMMIT_MESSAGE" value="js-lesson3" />
+    <MESSAGE value="js-lesson3&#10;change" />
+    <option name="LAST_COMMIT_MESSAGE" value="js-lesson3&#10;change" />
   </component>
 </project>
