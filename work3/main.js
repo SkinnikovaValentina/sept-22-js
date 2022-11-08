@@ -50,6 +50,15 @@ switch (week) {
         break;
 }
 
+let user = 100<200 ? 200 : 100 ;
+    console.log(user)
+let user1 = [100,200]
+if (user1 === 100<200) {
+    console.log('true')
+}else{
+    console.log('false')
+}
+
 
 
 let a = prompt() || 'default';
