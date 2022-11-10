@@ -71,7 +71,7 @@ switch (week) {
 // Також потрібно врахувати коли введені рівні числа.
 
 let user1 = [100,200]
-if (user1 === 100<200) {
+if (user1 === 100>200) {
     console.log('true');
 }else{
     console.log('false')
