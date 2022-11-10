@@ -32,34 +32,12 @@
 //     const user = users[i];{
 //         document.write(`<div>${user.name}</div>`);
 //     }
+// і++;
 // }
 // - За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом всередині.
-
-//let users = [
-//      {name: 'vasya', age: 31, status: false},
-//      {name: 'petya', age: 30, status: true},
-//      {name: 'kolya', age: 29, status: true},
-//      {name: 'olya', age: 28, status: false},
-//      {name: 'max', age: 30, status: true},
-//      {name: 'anya', age: 32,status: false},
-//      {name: 'oleg', age: 28, status: false},
-//      {name: 'andrey', age: 29, status: true},
-//      {name: 'masha', age: 30, status: true},
-//      {name: 'olya', age: 31, status: false},
-//      {name: 'max', age: 31, status: true},
-//      {name: 'vasya', age: 31, status: false},
-//      {name: 'petya', age: 31,status: true},
-//      {name: 'kolya', age: 29, status: true},
-//      {name: 'olya', age: 28, status: false},
-//      {name: 'max', age: 30, status: true},
-//      {name: 'anya', age: 31, status: false},
-//      {name: 'oleg', age: 28, status: false},
-//      {name: 'andrey', age: 29, status: true},
-//      {name: 'olya', age: 31, status: false},
-//      {name: 'max', age: 31, status: true}
-//  ];
+//
 // let b= 0;
-// while (b<users.length){
+// while (b<20){
 //     document.write(`<h1>info</h1>`);
 //{
 //    b++;
@@ -117,18 +95,15 @@
 // замість 'ITEM OF ARRAY' підставити елемент з масиву щоб получився цілий список з даними з масиву
 //
 //let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
-//
-// for (const listOfItem of listOfItems) {
-//     document.write(
+//   <ul>
+//  for (const listOfItem of listOfItems) {
+//      document.write(
 //         `
-//         <ul>
 //         <li>${listOfItem}</li>
-//
-// </ul>
 //         `
 //     )
 // }
-
+//</ul>
 
 // -----------------------------------------------
 //
