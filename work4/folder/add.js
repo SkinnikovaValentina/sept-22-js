@@ -17,10 +17,9 @@
 //numbers = [2,17,13,6,22,31,45,66,100,-18]
 // 1. перебрати його циклом while
 //let i = 0;
-//while (i <numbers.length)
-//    let number = numbers [i];{
+//while (i <numbers.length){
+//    let number = numbers [i];
 //    console.log(number);
-//    }
 //    i ++;
 //}
 //     2. перебрати його циклом for
@@ -76,8 +75,7 @@
 // 9. всі попередні завдання (окрім 8), але в зворотньому циклі (с заду на перед)
 //let i = numbers.length-1;                      //1
 //   while (i >=0 ) {
-//    console.log(numbers[1]);{
-//    }
+//    console.log(numbers[1]);
 //    i --;
 //}
 //for (let i =numbers .length - 1; i >= 0; i--) {

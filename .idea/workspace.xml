@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac120204-492c-4a75-9c0b-a4802383c717" name="Changes" comment=" lesson3&#10; chang2">
-      <change afterPath="$PROJECT_DIR$/work4/lesson4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work4/main.js" afterDir="false" />
+    <list default="true" id="ac120204-492c-4a75-9c0b-a4802383c717" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/work5/lesson5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work5/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/work3/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work4/folder/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/work4/folder/add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/work4/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,22 +41,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JavaScript"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sept-22-js\work4\folder" />
       <recent name="D:\sept-22-js\work3" />
       <recent name="D:\sept-22-js\work1" />
     </key>
@@ -86,6 +88,18 @@
       <workItem from="1667899894483" duration="1754000" />
       <workItem from="1667911576494" duration="2010000" />
       <workItem from="1668017371839" duration="17774000" />
+      <workItem from="1668059559953" duration="325000" />
+      <workItem from="1668083856670" duration="2082000" />
+      <workItem from="1668111665903" duration="11099000" />
+      <workItem from="1668178389041" duration="4094000" />
+      <workItem from="1668191342949" duration="12307000" />
+      <workItem from="1668413998927" duration="5259000" />
+      <workItem from="1668427525952" duration="6752000" />
+      <workItem from="1668442023894" duration="4526000" />
+      <workItem from="1668492988161" duration="15095000" />
+      <workItem from="1668521933224" duration="912000" />
+      <workItem from="1668544482086" duration="4979000" />
+      <workItem from="1668586949903" duration="3161000" />
     </task>
     <task id="LOCAL-00001" summary="JS-lesson1">
       <created>1667346513540</created>
@@ -143,7 +157,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667913480772</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" lesson4">
+      <created>1668059836503</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668059836503</updated>
+    </task>
+    <task id="LOCAL-00010" summary=" lesson4&#10; chang">
+      <created>1668084782012</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668084782012</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" lesson4&#10; additionally">
+      <created>1668446450349</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668446450349</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +215,9 @@
     <MESSAGE value="js-lesson3" />
     <MESSAGE value="js-lesson3&#10;change" />
     <MESSAGE value=" lesson3&#10; chang2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" lesson3&#10; chang2" />
+    <MESSAGE value=" lesson4" />
+    <MESSAGE value=" lesson4&#10; chang" />
+    <MESSAGE value=" lesson4&#10; additionally" />
+    <option name="LAST_COMMIT_MESSAGE" value=" lesson4&#10; additionally" />
   </component>
 </project>
