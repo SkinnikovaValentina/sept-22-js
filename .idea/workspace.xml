@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac120204-492c-4a75-9c0b-a4802383c717" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/work5/lesson5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work5/folder/addit5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work5/folder/main5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work4/folder/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/work4/folder/add.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/work4/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/work6/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,14 @@
       <workItem from="1668492988161" duration="15095000" />
       <workItem from="1668521933224" duration="912000" />
       <workItem from="1668544482086" duration="4979000" />
-      <workItem from="1668586949903" duration="3161000" />
+      <workItem from="1668586949903" duration="3527000" />
+      <workItem from="1668605016923" duration="1066000" />
+      <workItem from="1668666900993" duration="4176000" />
+      <workItem from="1668760095987" duration="717000" />
+      <workItem from="1668778379441" duration="322000" />
+      <workItem from="1669295578378" duration="1306000" />
+      <workItem from="1669305944129" duration="2572000" />
+      <workItem from="1669320437941" duration="26299000" />
     </task>
     <task id="LOCAL-00001" summary="JS-lesson1">
       <created>1667346513540</created>
@@ -178,7 +184,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668446450349</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary=" lesson5">
+      <created>1668591807689</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668591807689</updated>
+    </task>
+    <task id="LOCAL-00013" summary=" lesson6">
+      <created>1668672314572</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668672314572</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +238,8 @@
     <MESSAGE value=" lesson4" />
     <MESSAGE value=" lesson4&#10; chang" />
     <MESSAGE value=" lesson4&#10; additionally" />
-    <option name="LAST_COMMIT_MESSAGE" value=" lesson4&#10; additionally" />
+    <MESSAGE value=" lesson5" />
+    <MESSAGE value=" lesson6" />
+    <option name="LAST_COMMIT_MESSAGE" value=" lesson6" />
   </component>
 </project>
